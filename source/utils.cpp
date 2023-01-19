@@ -14,7 +14,6 @@ using std::string;
 using std::to_string;
 using std::vector;
 
-
 extern const bool ENABLE_UNLIMITED_INPUT;
 extern const int OPTIONAL_CYCLE_LIMIT;
 extern const int MAX_CYCLE_LIMIT;
