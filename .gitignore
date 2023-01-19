@@ -1,5 +1,6 @@
 
 bin/mips_emulator
+bin/simulator
 bin/default_output.txt
 build/*.o
 build/*.d
