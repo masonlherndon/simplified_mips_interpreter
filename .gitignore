@@ -1,0 +1,7 @@
+
+bin/mips_emulator
+bin/default_output.txt
+build/*.o
+build/*.d
+original/simulator.dSYM/
+original/simulator
